@@ -1,2 +1,2 @@
-# CND
+# CDN
 jsDelivery CDN
